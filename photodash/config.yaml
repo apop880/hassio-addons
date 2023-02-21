@@ -1,5 +1,5 @@
 name: "Photodash"
-description: "An easy to configure, photo focused Home Assistant alternative dashboard."
+description: "An easy to configure, photo focused Home Assistant alternative dashboard"
 version: "0.1.2"
 slug: "photo_dash"
 init: false
@@ -16,4 +16,4 @@ map:
   - share
 homeassistant_api: true
 webui: http://[HOST]:[PORT:3000]
-url: https://github.com/apop880/photodash
+url: https://photodash.apop.tech
