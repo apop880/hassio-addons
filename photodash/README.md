@@ -1,6 +1,6 @@
 # Photodash
 
-![Photodash Logo](https://photodash.apop.tech/img/logo.png)
+![Photodash Logo](https://raw.githubusercontent.com/apop880/photodash/main/logo.png)
 
 Photodash is an alternative dashboard for Home Assistant with a focus on serving as a digital photo frame. It aims to be easy to configure and maintain and supports displaying local photos or images from Google Photos.
 
