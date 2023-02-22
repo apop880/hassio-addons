@@ -1,12 +1,9 @@
-# Changelog
+# What's Changed
 
-## Version 0.1.2 - 2022-02-18
-* Fix bug preventing local photos from loading in Home Assistant Add-on
-* Fix clock parsing issue
-* Minor visual enhancements
-
-## Version 0.1.1 - 2022-02-15
-* Fixes redirect bug in onboarding process
-
-## Version 0.1.0 - 2022-02-15
-* Initial public beta release
+* Pick up new local slideshow photos automatically
+* Randomize slideshow photos
+* Serve icons from the backend
+* Fix bug where successful creation of new config redirected to new config form again
+* Fix bug where navigating to admin screen from active dashboard errored
+* Minor configuration enhancements to tiles
+Visit [https://photodash.apop.tech/docs](https://photodash.apop.tech/docs) to view release notes from this and previous releases.
