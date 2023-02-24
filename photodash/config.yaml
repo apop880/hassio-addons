@@ -1,6 +1,6 @@
 name: Photodash
 description: An easy to configure, photo focused Home Assistant alternative dashboard
-version: 0.2.1
+version: 0.2.2
 slug: photo_dash
 init: false
 arch:
